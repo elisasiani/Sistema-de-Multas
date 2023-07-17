@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(157, 250, 219);
+    font: normal 25pt Arial;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(0, 73, 73);
+}
+
+section {
+    background-color: white;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.692);
+    margin: auto;
+}
